@@ -6,4 +6,5 @@ How to use:
 
 Run with API URL argument:
 python api_security_tester.py https://example.com/api/resource
+
 It prints the results of each test to help identify security issues.
