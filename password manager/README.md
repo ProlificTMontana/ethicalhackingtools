@@ -7,4 +7,5 @@ How to use:
 Run the script:
 
 python password_manager.py
+
 Choose from the menu to generate/save a password or retrieve an existing one. Passwords are stored encrypted in passwords.json.
