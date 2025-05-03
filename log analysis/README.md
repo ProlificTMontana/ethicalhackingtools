@@ -7,4 +7,5 @@ How to use:
 Run with a log file path argument:
 
 python log_analysis.py /path/to/logfile.log
+
 It outputs summaries about suspicious activities found.
