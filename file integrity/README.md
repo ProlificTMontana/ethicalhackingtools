@@ -7,9 +7,10 @@ How to use:
 
 To initialize hash baseline:
 
-python file_integrity_checker.py init file1 file2 ...
+python file_integrity_checker.py init file1 file2
 
 To check for modifications:
 
 python file_integrity_checker.py check
+
 You must run init first before using the check command.
