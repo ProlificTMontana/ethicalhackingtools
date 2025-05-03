@@ -1,6 +1,6 @@
 Ethical Hacking Tools:
 
-This project contains a collection of Python scripts implementing various ethical hacking and security testing tools. Each tool helps in understanding and practicing cybersecurity concepts in an ethical and legal manner. Make sure to use these tools only on systems and data you have permission to test.
+This project contains a collection of standalone Python scripts implementing various ethical hacking and security testing tools. Each tool helps in understanding and practicing cybersecurity concepts in an ethical and legal manner. Make sure to use these tools only on systems and data you have permission to test.
 
 Tools Overview:
 
