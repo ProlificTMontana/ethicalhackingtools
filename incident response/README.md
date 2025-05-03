@@ -7,4 +7,5 @@ How to use:
 Run without arguments:
 
 python incident_response_automation.py
+
 It creates an incident report file under incident_reports/ directory with gathered data.
