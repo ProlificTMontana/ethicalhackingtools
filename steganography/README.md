@@ -7,9 +7,11 @@ How to use:
 To encode a message:
 
 python steganography_tool.py encode input.png output.png
+
 You will be prompted to enter the message to hide.
 
 To decode a message:
 
 python steganography_tool.py decode input.png
+
 The hidden message will be printed.
