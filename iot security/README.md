@@ -7,4 +7,5 @@ How to use:
 Run the script with an IP address argument:
 
 python iot_security_tester.py 192.168.1.10
+
 The tool reports open ports and if default credentials are accepted.
