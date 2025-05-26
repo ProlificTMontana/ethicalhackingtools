@@ -1,8 +1,8 @@
-Ethical Hacking Tools:
+# Ethical Hacking Tools:
 
 This project contains a collection of standalone Python scripts implementing various ethical hacking and security testing tools. Each tool helps in understanding and practicing cybersecurity concepts in an ethical and legal manner. Make sure to use these tools only on systems and data you have permission to test.
 
-Tools Overview:
+# Tools Overview:
 
 Password Manager (`password_manager.py`)
 
@@ -38,11 +38,11 @@ Automates collection of useful forensic data during a security incident such as 
 
 ---
 
- Usage
+# Usage
 
 Each tool script is standalone. You can run them from the command line and follow prompts or modify the code for your specific testing needs.
 
-Requirements
+# Requirements
 
 Some tools require external Python packages. You can install them via:
 
@@ -53,7 +53,7 @@ pip install cryptography requests Pillow
 ```
 
 
-#Ethical Use Notice
+# Ethical Use Notice
 
 Always ensure you have explicit permission to test targets before running these tools. Unauthorized use can be illegal and unethical.
 
